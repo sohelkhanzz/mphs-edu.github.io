@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile2.jpg'
 background:         'assets/img/background.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
 url:                https://sohelkhan-z.github.io
 
@@ -61,8 +61,8 @@ github-url:         sohelkhan-z
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-orcid:              0000-0003-2591-9462
-ads:                h2itvbiESW2c0v7YzSsKUg
+#orcid:              0000-0003-2591-9462
+#ads:                h2itvbiESW2c0v7YzSsKUg
 #figshare:           Rachael_Ainsworth/4824354
 
 # Gems
