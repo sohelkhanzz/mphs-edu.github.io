@@ -1,11 +1,11 @@
 # Site
 title:              Sohel Khan
-bio:                'mathematician,hacker,programmer,writer.'
-description:        "mathematician,hacker, programmer,writer.."
+bio:                'mathematician,hacker,programmer,Philosopher.'
+description:        "mathematician,hacker, programmer,Philosopher.."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile2.jpg'
-#background:         'assets/img/background.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
 url:                https://sohelkhan-z.github.io
@@ -26,23 +26,23 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   sohel
+disqus_shortname:   sohel Khan
 
 # Social
 # if you don't have any of social below, comment the line.
 google:
   #plus:            #username
-  analytics:       'UA-90951103-1'
+  #analytics:       'UA-90951103-1'
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              soooheeeel@gmail.com
 twitter:            sohelkhanz
-#facebook:           sohelkhan.io
+facebook:           sohelkhan.io
 github-url:         sohelkhan-z
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          rachaelainsworth
+#linkedin:          rachaelainsworth
 #xing:              username
 #instagram:          rachaelevelyn
 #lastfm:            username
@@ -63,7 +63,7 @@ linkedin:          rachaelainsworth
 #hackernews:        username
 orcid:              0000-0003-2591-9462
 ads:                h2itvbiESW2c0v7YzSsKUg
-figshare:           Rachael_Ainsworth/4824354
+#figshare:           Rachael_Ainsworth/4824354
 
 # Gems
 gems:
