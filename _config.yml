@@ -32,7 +32,7 @@ disqus_shortname:   sohel Khan
 # if you don't have any of social below, comment the line.
 google:
   #plus:            #username
-  #analytics:       'UA-90951103-1'
+  #analytics:       #'UA-90951103-1'
   #verify:
   #ad-client:
   #ad-slot:
