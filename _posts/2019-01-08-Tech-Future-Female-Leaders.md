@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Tech Future Female Leaders: Cohort 1 Recap"
+title:  "Electron"
 date:   2019-01-04
-excerpt: "My experience as a member of the first cohort of the Tech Future Female Leaders programme."
-tags: [Women in STEM, TFFL, Video]
+excerpt: "eee"
+tags: [EEE]
 feature: https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/TFFL/TFFL_logo.jpeg
 comments: true
 ---
