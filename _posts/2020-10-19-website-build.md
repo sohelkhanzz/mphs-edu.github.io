@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Build A Personal Website with Hugo"
+title: "How To Build A Website with Hugo"
 date: 2020-10-19
 excerpt: "How To Build Website"
 tags: [website,Hugo,tutorial]
