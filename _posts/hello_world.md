@@ -1,11 +1,10 @@
 ---
-
+layout: post
 title: How To Build Your First Python Program
 linktitle: How To Build Your First Python Program
 toc: true
 date: "2021-03-19"
 draft: false
-type: post
 
 tags:
  - tutorial
