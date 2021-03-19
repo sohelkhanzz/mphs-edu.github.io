@@ -3,7 +3,7 @@ layout: post
 title:  "How to build your first python program"
 date:   2017-12-04
 excerpt: "Basic Knowledge of python."
-tags: [python]
+tags: [python tutorial]
 comments: true
 ---
 ## Hello World
