@@ -1,15 +1,19 @@
 ---
 layout: post
-title:  "Python"
+title:  "Zen Of Python"
 date:   2020-12-01
-excerpt: "Learning python"
+excerpt: "Rules Of Python Programmer"
 tags: [python]
-feature: https://raw.githubusercontent.com/rainsworth/rainsworth.github.io/master/assets/img/posts/OpenScience/MozFest2017.jpg
+feature: 
 comments: true
 ---
 
 ## Zen of Python
-
+```r
+import this
+```
+output
+```r
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
@@ -29,3 +33,4 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+```
