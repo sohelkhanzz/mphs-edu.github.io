@@ -8,7 +8,8 @@ tags: [BOU Math]
 feature:
 comments: true
 ---
-                                        Here         y=log⁡(secx) 
+```r
+                                     Here         y=log⁡(secx) 
 =>  dy/dx=  secxtanx/secx  
 =tanx
 ∴√(1+(〖dy/dx)〗^(2 ) )=√(1+(〖tanx)〗^(2 ) )
@@ -22,4 +23,6 @@ s= ∫_0^(π/ 6)▒〖√(1+(〖dy/dx)〗^(2 ) ) □(24&dx)〗
 = [log(secx+ tanx) ]  (π/6)¦0
 =log⁡(sec π/6+tan π/6)-log⁡(sec0+tan0)  
 =log⁡(2/√3+1/√3)
-                                                         =log√3   
+                   
+                                      =log√3  
+``` 
