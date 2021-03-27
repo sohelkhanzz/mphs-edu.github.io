@@ -9,6 +9,7 @@ background:         'assets/img/mphs2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
 url:                https://mphs-edu.github.io
+copyright:         "sohelkhan&copy;"
 
 # Jekyll
 permalink:          /:title/
