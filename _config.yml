@@ -1,7 +1,7 @@
 # Site
 title:              Madhukhali Pilot High School
-bio:                'Madhukhali Pilot High School is an academic institute located at Madhukhali Madhukhali Faridpur. Its institute code (EIIN) is 108814. It was established on 01 January, 1947. Its co-education type is Combined. The institute has following 3 disciplines : Business Studies, Science, Humanities. Average exam passing rate of the institute is : JSC/Equivalent: 86.38%, SSC/Equivalent: 80.83%, Its MPO number is 3208061301. It has 2 shift. Its management is Managing. ``` This demo website is  created by ``` [Sohel Khan](sohelkhan.rbind.io) ``` ex-student of this institute. ``` '
-description:        "Madhukhali Pilot High School is an academic institute located at Madhukhali Madhukhali Faridpur. Its institute code (EIIN) is 108814. It was established on 01 January, 1947. Its co-education type is Combined. The institute has following 3 disciplines : Business Studies, Science, Humanities. Average exam passing rate of the institute is : JSC/Equivalent: 86.38%, SSC/Equivalent: 80.83%, Its MPO number is 3208061301. It has 2 shift. Its management is Managing. ``` This demo website is  created by ``` [Sohel Khan](sohelkhan.rbind.io) ```  ex-student of this institute. ``` "
+bio:                'Madhukhali Pilot High School is an academic institute located at Madhukhali Madhukhali Faridpur. Its institute code (EIIN) is 108814. It was established on 01 January, 1947. Its co-education type is Combined. The institute has following 3 disciplines : Business Studies, Science, Humanities. Average exam passing rate of the institute is : JSC/Equivalent: 86.38%, SSC/Equivalent: 80.83%, Its MPO number is 3208061301. It has 2 shift. Its management is Managing. This demo website is  created by [Sohel Khan](https://sohelkhan.rbind.io) ex-student of this institute.'
+description:        "Madhukhali Pilot High School is an academic institute located at Madhukhali Madhukhali Faridpur. Its institute code (EIIN) is 108814. It was established on 01 January, 1947. Its co-education type is Combined. The institute has following 3 disciplines : Business Studies, Science, Humanities. Average exam passing rate of the institute is : JSC/Equivalent: 86.38%, SSC/Equivalent: 80.83%, Its MPO number is 3208061301. It has 2 shift. Its management is Managing. This demo website is  created by [Sohel Khan](https://sohelkhan.rbind.io) ex-student of this institute."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/mphs.jpg'
@@ -9,7 +9,6 @@ background:         'assets/img/mphs2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
 url:                https://mphs-edu.github.io
-copyright:         "sohelkhan&copy;"
 
 # Jekyll
 permalink:          /:title/
