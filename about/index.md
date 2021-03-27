@@ -7,5 +7,11 @@ comments: false
 ---
 
 
-
-Sohel Khan is passionate about openness, transparency, reproducibility, wellbeing and inclusion in research  more broadly.
+## Basic Info
+``` EIIN 108814 ```
+## FOUNDED 
+``` 01-01-70 ```
+## BOARD 
+``` Dhaka ```
+## MPO NUMBER 
+``` 3208061301 ```
