@@ -16,7 +16,7 @@ There are three main options: use RStudio, the Terminal or Netlify. I personally
 
 Independently of the method, the first step is to create an account on [Github](https://www.github.com). 
 
-Then, add a new repository (`+` button in the top-right corner) called `username.github.io` where `username` is your Github username. In my case, my github username is `sohelkhanz`, therefore the repository is `sohelkhanz.github.io` and my personal website is https://sohelkhanz.github.io Use the default settings when creating the repository. 
+Then, add a new repository (`+` button in the top-right corner) called `username.github.io` where `username` is your Github username. In my case, my github username is `soooheeel`, therefore the repository is `soooheeel.github.io` and my personal website is https://soooheeel.github.io Use the default settings when creating the repository. 
 
 ## Create Website
 
@@ -194,4 +194,5 @@ Here are the main resources I used to write this guide:
  - Guide for the Terminal: https://github.com/fliptanedo/FlipWebsite2017
 
 
+Author : [Sohel Khan](https://sohelkhan.rbind.io)
 
