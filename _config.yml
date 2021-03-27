@@ -1,14 +1,14 @@
 # Site
 title:              Madhukhali Pilot High School
-bio:                'One of the best schools in Bangladesh'
-description:        "One of the best schools in Bangladesh"
+bio:                'Madhukhali Pilot High School is an academic institute located at Madhukhali Madhukhali Faridpur. Its institute code (EIIN) is 108814. It was established on 01 January, 1947. Its co-education type is Combined. The institute has following 3 disciplines : Business Studies, Science, Humanities. Average exam passing rate of the institute is : JSC/Equivalent: 86.38%, SSC/Equivalent: 80.83%, Its MPO number is 3208061301. It has 2 shift. Its management is Managing.'
+description:        "Madhukhali Pilot High School is an academic institute located at Madhukhali Madhukhali Faridpur. Its institute code (EIIN) is 108814. It was established on 01 January, 1947. Its co-education type is Combined. The institute has following 3 disciplines : Business Studies, Science, Humanities. Average exam passing rate of the institute is : JSC/Equivalent: 86.38%, SSC/Equivalent: 80.83%, Its MPO number is 3208061301. It has 2 shift. Its management is Managing."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/profile2.jpg'
-#background:         'assets/img/background.jpg'
+logo:               'assets/img/mphs.jpg'
+background:         'assets/img/mphs2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
-url:                https://madhukhalipilothighschool.github.io
+url:                https://mphs-edu.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -37,10 +37,10 @@ google:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              soooheeeel@gmail.com
-twitter:            sohelkhanz
-facebook:           sohelkhan.io
-github-url:         sohelkhanz
+#email:              @gmail.com
+twitter:            mphs_edu
+facebook:           mphs.edu
+github-url:         mphs-edu
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
