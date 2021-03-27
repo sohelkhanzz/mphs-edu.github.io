@@ -1,14 +1,14 @@
 # Site
-title:              Sohel Khan
-bio:                'Philosopher, mathematician, programmer,hacker.'
-description:        "Philosopher, mathematician, programmer,hacker.."
+title:              Madhukhali Pilot High School
+bio:                'One of the best schools in Bangladesh'
+description:        "One of the best schools in Bangladesh"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile2.jpg'
 #background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
-url:                https://sohelkhanz.github.io
+url:                https://madhukhalipilothighschool.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   sohel
+disqus_shortname:   mphs
 
 # Social
 # if you don't have any of social below, comment the line.
