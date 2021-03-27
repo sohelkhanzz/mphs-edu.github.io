@@ -44,4 +44,12 @@ comments: false
 - FAILED	         ``` 93 ```
 - PASS RATE	``` 70.4% ```	
 - A+ RATE	         ``` 8.3% ```
+
+
+
+
+
+THIS DEMO WEBSITE IS CREATED BY [SOHEL KHAN](https://sohelkhan.rbind.io)
+Ex-student of MPHS
+
 	
