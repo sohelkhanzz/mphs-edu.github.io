@@ -4,7 +4,7 @@ title: About
 tags: [about]
 date: 2018-12-13
 comments: false
-feature: https://raw.githubusercontent.com/sohelkhann/sohelkhann.github.io/master/assets/img/images(6).jpeg
+feature: https://raw.githubusercontent.com/sohelkhann/sohelkhann.github.io/master/assets/img/front.jpeg
 ---
 
 
