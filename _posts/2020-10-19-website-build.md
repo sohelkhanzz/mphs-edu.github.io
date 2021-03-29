@@ -7,8 +7,7 @@ tags: [website,Hugo,tutorial]
 feature: 
 comments: true
 ---
-
-In this tutorial I am going to explain how to build a personal page on [Github](https://www.github.com) using the **[Academic](https://sourcethemes.com/academic/)** theme from [Hugo](https://gohugo.io/).
+MADHUKHALI PILOT HIGH SCHOOL
 
 ## Introduction
 
