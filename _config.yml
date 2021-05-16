@@ -8,7 +8,7 @@ logo:               'assets/img/sohel2.jpg'
 background:         'assets/img/back.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
-url:                https://newsbd.github.io
+url:                https://newsbd24.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -37,14 +37,14 @@ google:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:              @gmail.com
-twitter:            mphs_edu
-facebook:           mphs.edu
+#email:              muhammadsohelkhan1@gmail.com
+twitter:            MuhammadSohel_K
+facebook:           Muhammad.Sohel.Khan.Sohel
 #github-url:         mphs-edu
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          mphs_edu
+instagram:          muhammad_sohel_khan
 #lastfm:            username
 #tumblr:            username
 #medium:            username
@@ -52,7 +52,7 @@ instagram:          mphs_edu
 #foursquare:        username
 #steam:             username
 #dribbble:          username
-youtube:           mphs.edu
+youtube:           Muhammad Sohel Khan
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
