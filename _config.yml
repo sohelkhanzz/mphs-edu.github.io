@@ -8,7 +8,7 @@ logo:               'assets/img/sohel2.jpg'
 background:         'assets/img/back.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_UK
-url:                https://newsbd24.github.io/
+url:                https://mphs-edu.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -32,7 +32,7 @@ disqus_shortname:   mphs
 # if you don't have any of social below, comment the line.
 google:
   #plus:            #username
-  #analytics:       'UA-193152863-1'
+  analytics:       'UA-193152863-1'
   #verify:
   #ad-client:
   #ad-slot:
