@@ -1,7 +1,7 @@
 # Site
 title:              Muhammad Sohel Khan
 bio:                'Muhammad Sohel Khan is a musical artist, youtuber, photographer.'
-description:         "Muhammad Sohel Khan is a bangladeshi singer. He is also a photographer, youtuber, content creator, songwriter."
+description:        "Muhammad Sohel Khan is a bangladeshi singer. He is also a photographer, youtuber, content creator, songwriter."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/sohel2.jpg'
@@ -40,7 +40,7 @@ google:
 email:              muhammadsohelkhan1@gmail.com
 twitter:            MuhammadSohel_K
 facebook:           Muhammad.Sohel.Khan.Sohel
-#github-url:         mphs-edu
+#github-url:        mphs-edu
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -52,7 +52,7 @@ instagram:          muhammad_sohel_khan
 #foursquare:        username
 #steam:             username
 #dribbble:          username
-youtube:           MuhammadSohelKhan
+youtube:            username
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
