@@ -4,11 +4,12 @@ title: "Palestine Supporters Bangladeshi Short film "
 date: 2021-05-20
 excerpt: "Palestine Supporters "
 tags: [Palestine, film, Short film, Palestine Supporters]
-feature: https://raw.githubusercontent.com/sohelkhann/sohelkhann.github.io/master/assets/img/teaa.jpeg
+feature: https://raw.githubusercontent.com/mphs-edu/mphs-edu.github.io/main/assets/img/Image_1621465588.jpg
 comments: true
 ---
 Palestine Supporters is
  upcoming bangladeshi Short film.
+https://raw.githubusercontent.com/mphs-edu/mphs-edu.github.io/main/assets/img/Image_1621465588.jpg
  Actor, Singner Muhammad Sohel Khan plays an important role who wants to support
 Palestine people. 
 # Casts
